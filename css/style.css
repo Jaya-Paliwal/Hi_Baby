@@ -481,14 +481,12 @@ perspective:100px ;
         margin-bottom: 0rem !important;
     }
     .top_slider_main_container p{
-        width: 25rem !important;
-        padding: 0 30px;
-        text-align: justify;
+        width: 20rem !important;
+        text-align: center;
     }
     .latest_product_section{
         position: relative;
-        top: -23.1rem;
-        
+        top: -23.1rem; 
     }
     .new_arivals_section{
         position: relative;
@@ -502,6 +500,7 @@ perspective:100px ;
     .new_arivals_img_container img{
         width: 100% !important;
         border-top-right-radius: 50px !important;
+        height: 100%;
     }
     .new_arivals_info_container{
         width: 100%;
@@ -510,21 +509,23 @@ perspective:100px ;
     }
     .new_arivals_info_container h2{
         text-align: center !important;
-        font-size: 2rem !important;
+        font-size: 1.5rem !important;
         width: 100% !important;
        
     }
     .new_arivals_info_container p{
         width: 100% !important;
         margin: 0px 20px ;
+        font-size: 1rem !important;
        
     }
     .button_container{
       display: flex;
       flex-direction: column;
       align-items: center;
+      margin: 10px 0px -60px 0px;
     }
-    .button_container ,.buy_now{
+    .button_container .buy_now{
         margin-bottom: 10px !important;
     } 
     
