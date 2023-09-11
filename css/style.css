@@ -516,7 +516,7 @@ perspective:100px ;
     }
     .new_arivals_info_container p{
         width: 100% !important;
-        margin-left: 20px ;
+        margin: 0px 20px ;
        
     }
     .button_container{
